@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  
+    <classes>
+      <class name="topic_BeforeAfterGroups.BeforeAfterGroups">
+      <methods>
+      <!-- <include name="closeFileDialog"></include> -->
+      <exclude name="closeFileDialog"></exclude>
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

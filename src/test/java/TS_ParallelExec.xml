@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="true" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="topic_TestNGExamples.Test1_SingleMethod"/>
+      
+      <class name="topic_TestNGExamples.Test3_Prioritization"/>
+      
+      <class name="topic_TestNGExamples.Test7_VP1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

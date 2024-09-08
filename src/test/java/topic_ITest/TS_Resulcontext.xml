@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="Suite">
+
+  <test name="Test1_Chrome">
+  <parameter name="browser" value="Chrome">
+  </parameter>
+    <classes>
+      <class name="topic_ITest.Testrescontext"/>
+    </classes>
+  </test> 
+  
+   <test name="Test2_ff">
+  <parameter name="browser" value="ff">
+  </parameter>
+    <classes>
+      <class name="topic_ITest.Testrescontext"/>
+    </classes>
+  </test> 
+  
+   <test name="Test3_Edge">
+  <parameter name="browser" value="edge">
+  </parameter>
+    <classes>
+      <class name="topic_ITest.Testrescontext"/>
+    </classes>
+  </test> 
+  
+</suite>

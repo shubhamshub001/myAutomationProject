@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <packages>
+      <package name="browser.Chrome"/>
+      <package name="browser.Edge"/>
+      <package name="browser.FF"/>
+    </packages>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
